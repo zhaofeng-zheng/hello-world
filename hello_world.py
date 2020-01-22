@@ -1,2 +1,2 @@
 print('hello world')
-print('Zis ist crazy')
+print('You are an idiot!!')
